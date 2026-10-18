@@ -1,0 +1,26 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="二叉搜索树/二叉搜索树.vcxproj" Id="baca1788-a26f-4043-97cf-e567b0771fdf" />
+  <Project Path="二叉树的中序线索化/二叉树的中序线索化.vcxproj" Id="2439fa5b-0332-49c4-b9c1-2e84a61d1d51" />
+  <Project Path="二叉树遍历（递归）/二叉树遍历（递归）.vcxproj" Id="4c7f3be5-3bc1-4784-b7fb-4ebf11dc3082" />
+  <Project Path="二叉树遍历（非递归）/二叉树遍历（非递归）.vcxproj" Id="0e62a887-4655-4178-beda-b93549796d15" />
+  <Project Path="哈夫曼树/哈夫曼树.vcxproj" Id="0cab6983-345e-493f-be64-cb780f863d99" />
+  <Project Path="图的存储/图的存储.vcxproj" Id="b9a34665-f3b1-466b-938c-536a48b84c14" />
+  <Project Path="图的存储（十字链表）/图的存储（十字链表）.vcxproj" Id="36d8addc-1f2d-4377-89ac-4eff724ef4f4" />
+  <Project Path="图的存储（多重邻接表）/图的存储（多重邻接表）.vcxproj" Id="edbd404d-6107-4467-82f4-cc0fc48694a9" />
+  <Project Path="图的存储（邻接表）/图的存储（邻接表）.vcxproj" Id="4618c870-15d7-44fc-9594-b069917f0711" />
+  <Project Path="图的遍历/图的遍历.vcxproj" Id="933b6bbf-3e49-415e-b64b-9543faf52b16" />
+  <Project Path="图的遍历（BFS）/图的遍历（BFS）.vcxproj" Id="8e3502ea-c546-4ee6-bf63-63ecf1469cb5" />
+  <Project Path="平衡二叉树/平衡二叉树.vcxproj" Id="41e1b006-2e65-49b0-a3fe-28099765d5b7" />
+  <Project Path="并查集/并查集.vcxproj" Id="1c04c23e-5489-4abd-a251-552a19df7612" />
+  <Project Path="循环队列/循环队列.vcxproj" Id="afa5d7a3-20e4-4e42-ae22-724c13502346" />
+  <Project Path="最小生成树（Kruskal)/最小生成树（Kruskal).vcxproj" Id="54ea20c3-e5b5-4c64-9e7c-90179fd12c42" />
+  <Project Path="最小生成树（prim）/最小生成树（prim）.vcxproj" Id="6c22b3c3-c1f6-4a71-b872-9b8edc91b60a" />
+  <Project Path="最短路径（Dijkstra)/最短路径（Dijkstra).vcxproj" Id="7e8e5f22-cfae-4387-9cbf-affb8bb48592" />
+  <Project Path="链式队列/链式队列.vcxproj" Id="e0cf0c66-3c8c-430d-bac3-cf3bfbc73d14" />
+  <Project Path="链栈/链栈.vcxproj" Id="c768b1f0-2aaf-443d-b39a-c772df55bde4" />
+  <Project Path="顺序栈/顺序栈.vcxproj" Id="92e633e9-31e8-477b-be92-cdb327ca7045" />
+</Solution>
